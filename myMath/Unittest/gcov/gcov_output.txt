@@ -1,4 +1,0 @@
-File '../myMath.cpp'
-Lines executed:100.00% of 13
-Creating 'myMath.cpp.gcov'
-
